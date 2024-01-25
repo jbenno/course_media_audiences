@@ -1,0 +1,117 @@
+<sup>[&uarr; Back to course home page](/README.md)</sup>  
+# Bibliography
+- Abercrombie, Nick, and Brian Longhurst. 1998. Audiences: A Sociological Theory of Performance and Imagination. Thousand Oaks, CA: SAGE.
+- Adams, William J. 1994. ‘Changes in Ratings Patterns for Prime Time before, during, and after the Introduction of the People Meter’. Journal of Media Economics 7 (2): 15–28.
+- Adorno, Theodor|Horkheimer, Max, ed. 2002. ‘Dialectic of Enlightenment: Cultural Memory in the Present’. In The Culture Industry: Enlightenment as Mass Deception, 94–136. Stanford, CA: Stanford Univ. Press.
+- Anand, N., and Richard A. Peterson. 2000. ‘When Market Information Constitutes Fields: Sensemaking of Markets in the Commercial Music Industry’. Organization Science 11 (3): 270–84.
+- Andrejevic, Mark. 2002. ‘The Work of Being Watched: Interactive Media and the Exploitation of Self Disclosure’. Critical Studies in Media Communication 19 (2): 230–48.
+- ———. 2008. ‘Watching Television without Pity: The Productivity of Online Fans’. Television and New Media 9 (1): 24–46.
+- Ang, Ien. 1991. Desperately Seeking the Audience. London: Routledge.
+- Artz, Lee. 2008. ‘Media Relations and Media Product: Audience as Commodity’. Democratic Communiqué 22 (1): 60–74.
+- Arvidsson, Adam, and Tiziano Bonini. 2014. ‘Valuing Audience Passions: From Smythe to Tarde’. European Journal of Cultural Studies 18 (2): 158–73.
+- Audience and Interpretation. 2014. Vol. 4. The International Encyclopedia of Media Studies. West Sussex, UK: Wiley-Blackwell.
+- Audience Responses to Media Diversification: Coping with Plenty. 1989. Hillsdale, NJ: Lawrence Erlbaum Associates.
+- Audiencemaking: How the Media Create the Audience. 1994. Thousand Oaks, CA: SAGE.
+- Bacon-Smith, Camille. 1992. Enterprising Women: Television Fandom and the Creation of Popular Myth. Philadelphia: Univ. of Pennsylvania Press.
+- Bakshy, Eytan, Solomon Messing, and Lada A. Adamic. 2015. ‘Exposure to Ideologically Diverse News and Opinion on Facebook’. Science 348 (6289): 1130–32.
+- Barwise, Patrick, and Andrew Ehrenberg. 1988. Television and Its Audience. Beverly Hills, CA: SAGE.
+- Baym, Nancy K. 2000. Tune in, Log on: Soaps, Fandom, and Online Community. Thousand Oaks, CA: SAGE.
+- Beam, Michael A. 2014. ‘Automating the News: How Personalized News Recommender System Design Choices Impact News Reception’. Communication Research 41 (8): 1019–41.
+- Bellikon, Krieg von, and Sarah Maria. 2022. ‘Decolonising Audience Theory : Opportunities and Challenges for Teaching Mātauranga Māori-Informed Media Literacy’. Thesis, ResearchSpace@Auckland. https://researchspace.auckland.ac.nz/handle/2292/62206.
+- Bermejo, Fernando. 2007. The Internet Audience: Constitution and Measurement. New York: Peter Lang.
+- ———. 2009. ‘Audience Manufacture in Historical Perspective: From Broadcasting to Google’. New Media & Society 11 (1–2): 133–54.
+- Biocca, Frank A., ed. 1988. ‘Communication Yearbook’. In Opposing Conceptions of the Audience: The Active and Passive Hemispheres of Mass Communication Theory, 11:51–81. Newbury Park, CA: SAGE.
+- Blumtritt, Joerg, Sabria David, and Benedikt Koehler. 2010. ‘The Slow Media Manifesto’. http://en.slow-media.net/manifesto.
+- Booth, Paul. 2015. Playing Fans: Negotiating Fandom and Media in the Digital Age. Iowa City: Univ. of Iowa Press.
+- boyd, danah. 2015. It’s Complicated: The Social Lives of Networked Teens. New Haven, CT: Yale Univ. Press.
+- Brown, Carrie, Elizabeth Hendrickson, and Jeremy Littau. 2014. ‘New Opportunities for Diversity: Twitter, Journalists and Traditionally Underserved Communities’. Journal of Social Media Studies 1 (1): 1–16.
+- Bruns, Axel. 2008. Blogs, Wikipedia, Second Life, and beyond: From Production to Produsage. New York: Peter Lang.
+- Butsch, Richard. 2000. The Making of American Audiences: From Stage to Television, 1750–1990. New York: Cambridge Univ. Press.
+- ———. 2007. The Citizen Audience: Crowds, Publics, and Individuals. New York: Routledge.
+- Caraway, Brett. 2011. ‘Audience Labor in the New Media Environment: A Marxian Revisiting of the Audience Commodity’. Media, Culture & Society 33 (5): 693–708.
+- Cooper, Roger, and Tang Tang. 2009. ‘Predicting Audience Exposure to Television in Today’s Media Environment: An Empirical Integration of Active-Audience and Structural Theories’. Journal of Broadcasting & Electronic Media 53 (3): 400–418.
+- Costello, Victor, and Barbara Moore. 2007. ‘Cultural Outlaws: An Examination of Audience Activity and Online Television Fandom’. Television & New Media 8 (2): 124–43.
+- Couldry, Nick. 2004. ‘The Productive “Consumer” and the Dispersed “Citizen”’. International Journal of Cultural Studies 7 (1): 21–32.
+- Dijck, José van. 2009. ‘Users like You? Theorizing Agency in User-Generated Content’. Media, Culture & Society 31 (1): 41–58.
+- Duffy, Brook. 2015. ‘Amateur, Autonomous, and Collaborative: Myths of Aspiring Female Cultural Producers in Web 2.0’. Critical Studies in Media Communication 32 (1): 48–64.
+- Dutta, Mohan, and Mahuya Pal. 2010. ‘Dialog Theory in Marginalized Settings: A Subaltern Studies Approach’. Communication Theory 20 (4): 363–86. https://doi.org/10.1111/j.1468-2885.2010.01367.x.
+- Eaman, Ross. 1994. Channels of Influence: CBC Audience Research and the Canadian Public. Toronto: Univ. of Toronto Press.
+- Fuchs, Christian. 2011. ‘Web 2.0, Prosumption, and Surveillance’. Surveillance & Society 8 (3): 288–309.
+- Fuller, Kathryn H. 1996. At the Picture Show: Small-Town Audiences and the Creation of Movie Fan Culture. Washington, DC: Smithsonian Institute.
+- Gandy, Oscar H., ed. 2002. ‘The Handbook of New Media’. In The Real Digital Divide: Citizens v. Consumers, 448–60. Thousand Oaks, CA: SAGE.
+- Garrett, R. Kelly, and Natalie Jomini Stroud. 2014. ‘Partisan Paths to Exposure Diversity: Differences in pro- and Counter-Attitudinal News Consumption’. Journal of Communication 64 (4): 680–701.
+- Gassner, Patricia. 2007. ‘The End of the Audience: How the Nature of Audiences Changed’. Global Media Journal, African Edition 1 (1): 120–29.
+- Gilmore, Dan. 2006. We the Media: Grassroots Journalism by the People, for the People. New York: O’Reilly Media.
+- Graham, Roderick, and Shawn Smith. 2016. ‘The Content of Our #characters: Black Twitter as Counterpublic’. Sociology of Race & Ethnicity 2 (4): 433–49.
+- Griffen-Foley, Bridget. 2004. ‘From Tit-Bits to Big Brother: A Century of Audience Participation in the Media’. Media, Culture, and Society 26 (4): 533–48.
+- Hall, Stuart, ed. 2009. ‘Media Studies: A Reader’. In Encoding/Decoding, 28–38. New York: New York Univ. Press.
+- Handel, Leo. 1950. Hollywood Looks at Its Audience: A Report of Film Audience Research. Urbana: Univ. of Illinois Press.
+- Hargittai, Eszter, and Gina Walejko. 2008. ‘The Participation Divide: Content Creation and Sharing in the Digital Age’. Information, Communication, & Society 11 (2): 239–56.
+- Heeter, Carrie, and Bradley S. Greenberg. 1988. Cableviewing. Norwood, NJ: Ablex.
+- Herzog, Herta, ed. 1944. ‘Radio Research 1942–43’. In What Do We Really Know about Daytime Serial Listeners?, 3–33. New York: Duell, Solan & Pearce.
+- Hesmondhalgh, David. 2010. ‘User-Generated Content, Free Labour and the Cultural Industries’. Ephemera: Theory & Politics in Organization 10 (3): 267–84.
+- Hills, Matthew. 2002. Fan Cultures. London: Routledge.
+- Horton, Donald, and R. Richard Wohl. 1956. ‘Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance’. Psychiatry 19: 215–29.
+- Jenkins, Henry. 1992. Textual Poachers: Television Fans and Participatory Culture. New York: Routledge.
+- ———. 2006. Convergence Culture: Where Old and New Media Collide. New York: New York Univ. Press.
+- Jermyn, Deborah, and Su Holmes. 2006. ‘The Audience Is Dead; Long Live the Audience!: Interactivity, “Telephilia,” and the Contemporary Television Audience’. Critical Studies in Television 1 (1): 49–57.
+- Jhally, Sut. 1982. ‘Probing the Blindspot: The Audience Commodity’. Canadian Journal of Political and Social Theory 6 (1–2): 204–10.
+- Jhally, Sut, and Justin Lewis. 1992. Enlightened Racism: The Cosby Show, Audiences, and the Myth of the American Dream. Boulder, CO: Westview.
+- Jhally, Sut, and Bill Livant. 1986. ‘Watching as Working: The Valorization of Audience Consciousness’. Journal of Communication 36: 124–43.
+- Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. 1973. ‘Uses and Gratifications Research’. Public Opinion Quarterly 37 (4): 509–23.
+- Kraidy, Marwan M. 2002. ‘Hybridity in Cultural Globalization’. Communication Theory 12 (3): 316–39. https://doi.org/10.1111/j.1468-2885.2002.tb00272.x.
+- Ksiazek, Thomas B., and James G. Webster. 2008. ‘Cultural Proximity and Audience Behavior: The Role of Language in Patterns of Polarization and Multicultural Fluency’. Journal of Broadcasting & Electronic Media 52 (3): 485–503.
+- Langlois, Ganaele. 2013. ‘Participatory Culture and the New Governance of Communication: The Paradox of Participatory Media’. Television & New Media 14 (2): 91–105.
+- Lazarsfeld, Paul F., and Harry Field. 1946. The People Look at Radio. Chapel Hill: Univ. of North Carolina Press.
+- Levy, Mark R. 1982. ‘The Lazarsfeld-Stanton Program Analyzer: A Historical Note’. Journal of Communication 32 (4): 30–38.
+- Livingstone, Sonia, ed. 2003. ‘A Companion to Media Studies’. In The Changing Nature of Audiences: From the Mass Audience to the Interactive Media User, 337–59. Oxford: Basil Blackwell.
+- ———, ed. 2005. ‘Audiences and Publics: When Cultural Engagement Matters for the Public Sphere’. In On the Relation between Audiences and Publics, 17–42. Bristol, UK: Intellect.
+- ———. 2013. ‘The Participation Paradigm in Audience Research’. The Communication Review 16 (1–2): 21–30.
+- Livingstone, Sonia|Das, Ranjana, ed. 2013. ‘A Companion to New Media Dynamics’. In The End of Audiences? Theoretical Echoes of Reception amid the Uncertainties of Use, 104–21. Oxford: Wiley-Blackwell.
+- Loosen, Wiebke, and Jan-Hinrik Schmidt. 2012. ‘(Re)Discovering the Audience: The Relationship between Journalism and Audience in Networked Digital Media’. Information, Communication & Society 15 (6): 867–87.
+- Maltby, Richard, and Melvyn Stokes. 1999. American Movie Audiences: From the Turn of the Century to the Early Sound Era. London: British Film Institute.
+- McQuail, Denis. 1997a. Audience Analysis. Thousand Oaks, CA: SAGE.
+- ———. 1997b. Audience Analysis. Thousand Oaks, Calif. ; SAGE.
+- ———. 2010. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd.
+- Media Choice: A Theoretical and Empirical Overview. 2009. New York: Routledge.
+- Meehan, Eileen R. 1984. ‘Ratings and the Institutional Approach: A Third Answer to the Commodity Question’. Critical Studies in Mass Communication 1 (2): 216–25.
+- Messing, Solomon, and Sean J. Westwood. 2014. ‘Selective Exposure in the Age of Social Media: Endorsements Trump Partisan Source Affiliation When Selecting News Online’. Communication Research 41 (8): 1042–63.
+- Mobilising the Audience. 2002. St. Lucia, Australia: Univ. of Queensland Press.
+- Morley, David. 1980. The Nationwide Audience: Structure and Decoding. London: British Film Institute.
+- ———. 1993. ‘Active Audience Theory: Pendulums and Pitfalls’. Journal of Communication 43 (4): 13–19.
+- Muliaee, Maryam, and Mani Merhvarz. 2020. ‘Mapping Media Studies’. MAST. The Journal of Media Art Study and Theory 1 (1). https://mast-nemla.org/wp-content/uploads/2020/04/MAST_Vol1_No1.pdf.
+- Murdock, Graham. 1978. ‘Blindspots about Western Marxism: A Reply to Dallas Smythe’. Canadian Journal of Political and Social Theory 2 (2): 109–19.
+- Napoli, Philip M. 2003. Audience Economics: Media Institutions and the Audience Marketplace. New York: Columbia Univ. Press.
+- ———. 2005. ‘Audience Measurement and Media Policy: Audience Economics, Diversity, and the Local People Meter’. Communication Law & Policy 10 (4): 349–82.
+- ———. 2011. Audience Evolution: New Technologies and the Transformation of Media Audiences. New York: Columbia Univ. Press.
+- Napoli, Philip, and Steve Voorhees. 2024. ‘Audience Studies’. In Oxford Bibliographies. Oxford University Press. https://doi.org/10.1093/OBO/9780199756841-0135.
+- Neuman, W. Russell. 1991. The Future of the Mass Audience. New York: Cambridge Univ. Press.
+- Ohmer, Susan. 2006. George Gallup in Hollywood. New York: Columbia Univ. Press.
+- Oswell, David. 2002. Television, Childhood, and the Home: A History of the Making of the Child Television Audience in Britain. Oxford: Oxford Univ. Press.
+- Press, Andrea. 1991. Women Watching Television: Gender, Class, and Generation in the American Television Experience. Philadelphia: Univ. of Pennsylvania Press.
+- Prior, Markus. 2007. Post-Broadcast Democracy: How Media Choice Increases Inequality in Political Involvement and Polarizes Elections. New York: Cambridge Univ. Press.
+- Raboy, Marc, Bram Dov Abramson, Serge Proulx, and Roxanne Welters. 2001. ‘Media Policy, Audiences, and Social Demand: Research at the Interface of Policy Studies and Audience Studies’. Television & New Media 2 (2): 95–115.
+- Radway, Janice A. 1984. Reading the Romance: Women, Patriarchy, and Popular Literature. Chapel Hill: Univ. of North Carolina Press.
+- Roach, Colleen. 1997. ‘Cultural Imperialism and Resistance in Media Theory and Literary Theory’. Media, Culture & Society 19 (1): 47–66. https://doi.org/10.1177/016344397019001004.
+- Ross, Philippe. 2014. ‘Were Producers and Audiences Ever Separate? Conceptualizing Media Production as Social Situation’. Television & New Media 15 (2): 157–74.
+- Sandvoss, Cornel. 2005. Fans: The Mirror of Consumption. Cambridge, UK: Policy Press.
+- Sato, Takeshi. 1988. ‘An Alternative Approach to the Theory of the Media Audience: Toward the Theory of the Audience as Decoder (Discussins on the New Theory of Audience)’. Japanese journalism review 37: 113-130,318-31. https://doi.org/10.24460/shinbungaku.37.0_113.
+- Say It Loud! African American Audiences, Media, and Identity. 2013. New York: Routledge.
+- Scolari, Carlos A. 2023. On the Evolution of Media: Understanding Media Change. London: Routledge. https://doi.org/10.4324/9781003215233.
+- Semujju, Brian. 2020. ‘Theorizing Dependency Relations in Small Media’. Communication Theory (1050-3293) 30 (4): 370–87. https://doi.org/10.1093/ct/qtz032.
+- Silvey, Robert. 1974. Who’s Listening? The Story of BBC Audience Research. London: Allen and Unwin.
+- Singer, Jane. 2014. ‘User-Generated Visibility: Secondary Gatekeeping in a Shared Media Space’. New Media & Society 16 (1): 55–73.
+- Smythe, Dallas. 1977. ‘Communications: Blindspot of Western Marxism’. Canadian Journal of Political and Social Theory 1 (3): 1–27.
+- Spigel, Lynn. 1992. Make Room for TV: Television and the Family Ideal in Postwar America. Chicago: Univ. of Chicago Press.
+- Steiner, Gary A. 1963. The People Look at Television: A Study of Audience Attitudes. New York: Knopf.
+- Stoneman, Richard. 2019. The Greek Experience of India: From Alexander to the Indo-Greeks. Princeton University Press. https://doi.org/10.1515/9780691185385.
+- Sullivan, John L. 2013. Media Audiences: Effects, Users, Institutions, Power. Thousand Oaks, CA: SAGE.
+- ———. 2019. Media Audiences Effects, Users, Institutions, and Power. 2nd ed. Thousand Oaks: SAGE Publications.
+- Takahashi, Toshie. 2009. Audience Studies: A Japanese Perspective. New York: Routledge. https://doi.org/10.4324/9780203871980.
+- Terranova, Tiziana. 2000. ‘Free Labor: Producing Culture for the Digital Economy’. Social Text 63 (18): 33–57.
+- Tewksbury, David. 2005. ‘The Seeds of Audience Fragmentation: Specialization in the Use of Online News Sites’. Journal of Broadcasting & Electronic Media 49 (3): 332–48.
+- The Handbook of Media Audiences. 2011. West Sussex, UK: Wiley-Blackwell.
+- Webster, James G. 2014. The Marketplace of Attention: How Audiences Take Shape in the Digital Age. New Haven, CT: Yale Univ. Press.
+- Webster, James G., and Thomas Ksiazek. 2012. ‘The Dynamics of Audience Fragmentation: Public Attention in an Age of Digital Media’. Journal of Communication 62 (1): 39–56.
+- Webster, James G., and Shu-Fang Lin. 2002. ‘The Internet Audience: Web Use as Mass Behavior’. Journal of Broadcasting and Electronic Media 46 (1): 1–12.
+- Webster, James G., and Patricia F. Phalen. 1997. The Mass Audience: Rediscovering the Dominant Model. Mahwah, NJ: Lawrence Erlbaum Associates.
