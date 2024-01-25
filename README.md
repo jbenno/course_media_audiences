@@ -1,6 +1,8 @@
 # Media Audiences
 **Instructor: Joerg Blumtritt**  
 
+Additional information, administrative matters, contact can be found here: [Additional Information](/files/Additional_Information.md)
+
 [Bibliography of all literature used](/files/Bibliography.md)
 
 ## Schedule
@@ -40,3 +42,13 @@ Conveying culture, translation, rituals, liturgies, and institutional power
 Speculation on what might come
 	
 #### 14	[Final session](/files/14.md)
+
+#### Assignments
+The assignments are listed in newclasses.nyu.edu  
+[Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
+
+
+***
+  
+<sup>***[Media Audiences](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
