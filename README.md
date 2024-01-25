@@ -9,13 +9,13 @@
 #### [1, 2, and 3 Media and audiences](/files/01.md)
 Communication, media and mass media, ultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle, and critique of the concept of "masses"
 	
-#### 4	[Audience analytics]](/files/04.md)
+#### 4	[Audience analytics](/files/04.md)
 Measurement and empirical audience research, advertising and PR
 	
-#### 5	[Political audiences]](/files/05.md)
+#### 5	[Political audiences](/files/05.md)
 Propaganda and activism
 	
-#### 6	[The subtle difference]](/files/06.md)
+#### 6	[The subtle difference](/files/06.md)
 Taste, distinction, popular culture	
 	
 #### 7	[The Individual](/files/07.md)
