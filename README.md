@@ -8,10 +8,10 @@ Additional information, administrative matters, contact can be found here: [Addi
 ## Schedule
 *Work in progress - subject to change*
 
-#### [1, 2, and 3 Media and audiences](/files/01.md)
+#### [1, and 2 Media and audiences](/files/01.md)
 Communication, media and mass media, ultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle, and critique of the concept of "masses"
 	
-#### 4	[Audience analytics](/files/04.md)
+#### 4	[Audience measurement](/files/04.md)
 Measurement and empirical audience research, advertising and PR
 	
 #### 5	[Political audiences](/files/05.md)
