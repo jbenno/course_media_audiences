@@ -29,3 +29,5 @@ We will develop a grading systeme together in class.
 
 ## Other matters
 Please refer to the general rules and guidelines of the college, in particular the Student Handbook.
+
+<sup>***[Media Audiences](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
