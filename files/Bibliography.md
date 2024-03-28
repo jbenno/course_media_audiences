@@ -1,123 +1,195 @@
 <sup>[&uarr; Back to course home page](/README.md)</sup>  
 # Bibliography
 - Abercrombie, Nick, and Brian Longhurst. Audiences: A Sociological Theory of Performance and Imagination. Thousand Oaks, CA: SAGE, 1998.
-- Adams, William J. ‘Changes in Ratings Patterns for Prime Time before, during, and after the Introduction of the People Meter’. Journal of Media Economics 7, no. 2 (1994): 15–28.
-- Adorno, Theodor|Horkheimer, Max, ed. ‘Dialectic of Enlightenment: Cultural Memory in the Present’. In The Culture Industry: Enlightenment as Mass Deception, 94–136. Stanford, CA: Stanford Univ. Press, 2002.
-- Anand, N., and Richard A. Peterson. ‘When Market Information Constitutes Fields: Sensemaking of Markets in the Commercial Music Industry’. Organization Science 11, no. 3 (2000): 270–84.
-- Andrejevic, Mark. ‘The Work of Being Watched: Interactive Media and the Exploitation of Self Disclosure’. Critical Studies in Media Communication 19, no. 2 (2002): 230–48.
-- ———. ‘Watching Television without Pity: The Productivity of Online Fans’. Television and New Media 9, no. 1 (2008): 24–46.
+- Adams, William J. “Changes in Ratings Patterns for Prime Time before, during, and after the Introduction of the People Meter.” Journal of Media Economics 7, no. 2 (1994): 15–28.
+- Adorno, Theodor W. Minima Moralia: Reflections from Damaged Life. Radical Thinkers 1. London %3B New York: Verso, 2005.
+- Adorno, Theodor W. Minima Moralia: Reflexionen aus dem beschädigten Leben. Bibliothek Suhrkamp ; Bd. 236. Frankfurt am Main: Suhrkamp, 1989.
+- Airoldi, Massimo. “Digital Distinction. Studying Musical Taste through Digital Methods.” Università degli studi di Milano and Università degli studi di Torino, n.d.
+- ———. “Digital Traces of Taste: Methodological Pathways for Consumer Research.” Consumption Markets & Culture 24, no. 1 (January 2, 2021): 97–117. https://doi.org/10.1080/10253866.2019.1690998.
+- Anand, N., and Richard A. Peterson. “When Market Information Constitutes Fields: Sensemaking of Markets in the Commercial Music Industry.” Organization Science 11, no. 3 (2000): 270–84.
+- Andrejevic, Mark. “The Work of Being Watched: Interactive Media and the Exploitation of Self Disclosure.” Critical Studies in Media Communication 19, no. 2 (2002): 230–48.
+- ———. “Watching Television without Pity: The Productivity of Online Fans.” Television and New Media 9, no. 1 (2008): 24–46.
 - Ang, Ien. Desperately Seeking the Audience. London: Routledge, 1991.
-- Artz, Lee. ‘Media Relations and Media Product: Audience as Commodity’. Democratic Communiqué 22, no. 1 (2008): 60–74.
-- Arvidsson, Adam, and Tiziano Bonini. ‘Valuing Audience Passions: From Smythe to Tarde’. European Journal of Cultural Studies 18, no. 2 (2014): 158–73.
+- ———. Watching Dallas: Soap Opera and the Melodramatic Imagination. London ; Methuen, 1985.
+- Artz, Lee. “Media Relations and Media Product: Audience as Commodity.” Democratic Communiqué 22, no. 1 (2008): 60–74.
+- Arvidsson, Adam, and Tiziano Bonini. “Valuing Audience Passions: From Smythe to Tarde.” European Journal of Cultural Studies 18, no. 2 (2014): 158–73.
 - Audience and Interpretation. Vol. 4. The International Encyclopedia of Media Studies. West Sussex, UK: Wiley-Blackwell, 2014.
 - Audience Responses to Media Diversification: Coping with Plenty. Hillsdale, NJ: Lawrence Erlbaum Associates, 1989.
 - Audiencemaking: How the Media Create the Audience. Thousand Oaks, CA: SAGE, 1994.
-- Bacon-Smith, Camille. Enterprising Women: Television Fandom and the Creation of Popular Myth. Philadelphia: Univ. of Pennsylvania Press, 1992.
-- Bakshy, Eytan, Solomon Messing, and Lada A. Adamic. ‘Exposure to Ideologically Diverse News and Opinion on Facebook’. Science 348, no. 6289 (2015): 1130–32.
+- Bacon-Smith, Camille. Enterprising Women: Television Fandom and the Creation of Popular Myth. Publications of the American Folklore Society. New Series. Philadelphia: University of Pennsylvania Press, 1992.
+- Bakshy, Eytan, Solomon Messing, and Lada A. Adamic. “Exposure to Ideologically Diverse News and Opinion on Facebook.” Science 348, no. 6289 (2015): 1130–32.
 - Barwise, Patrick, and Andrew Ehrenberg. Television and Its Audience. Beverly Hills, CA: SAGE, 1988.
 - Baym, Nancy K. Tune in, Log on: Soaps, Fandom, and Online Community. Thousand Oaks, CA: SAGE, 2000.
-- Beam, Michael A. ‘Automating the News: How Personalized News Recommender System Design Choices Impact News Reception’. Communication Research 41, no. 8 (2014): 1019–41.
-- Bellikon, Krieg von, and Sarah Maria. ‘Decolonising Audience Theory : Opportunities and Challenges for Teaching Mātauranga Māori-Informed Media Literacy’. Thesis, ResearchSpace@Auckland, 2022. https://researchspace.auckland.ac.nz/handle/2292/62206.
-- Benjamin, Ruha. Captivating Technology: Race, Carceral Technoscience, and Liberatory Imagination in Everyday Life. Durham: Duke University Press, 2019. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5779780.
-- Benjamin, Walter. ‘The Translator’s Task, Walter Benjamin (Translation)’. Translated by Steven Rendall. TTR : Traduction, Terminologie, Rédaction 10, no. 2 (1997): 151–65. https://doi.org/10.7202/037302ar.
+- Beam, Michael A. “Automating the News: How Personalized News Recommender System Design Choices Impact News Reception.” Communication Research 41, no. 8 (2014): 1019–41.
+- Behrens, Roger. Kulturindustrie. transcript Verlag, 2015. https://doi.org/10.1515/9783839402467.
+- ———. “Pädagogik der Hoffnungslosigkeit: Nach dem Ende der Utopie.” Vierteljahrsschrift für wissenschaftliche Pädagogik 99, no. 3 (September 8, 2023): 356–74. https://doi.org/10.30965/25890581-09703105.
+- Bellikon, Krieg von, and Sarah Maria. “Decolonising Audience Theory : Opportunities and Challenges for Teaching Mātauranga Māori-Informed Media Literacy.” Thesis, ResearchSpace@Auckland, 2022. https://researchspace.auckland.ac.nz/handle/2292/62206.
+- Benjamin, Ruha. Captivating Technology: Race, Carceral Technoscience, and Liberatory Imagination in Everyday Life. Durham: Duke University Press, 2019.
+- Benjamin, Walter. “The Translator’s Task, Walter Benjamin (Translation).” Translated by Steven Rendall. TTR : Traduction, Terminologie, Rédaction 10, no. 2 (1997): 151–65. https://doi.org/10.7202/037302ar.
 - ———. The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media. Cambridge, Mass.: Belknap Press of Harvard University Press, 2008.
-- Bermejo, Fernando. ‘Audience Manufacture in Historical Perspective: From Broadcasting to Google’. New Media & Society 11, no. 1–2 (2009): 133–54.
+- Bermejo, Fernando. “Audience Manufacture in Historical Perspective: From Broadcasting to Google.” New Media & Society 11, no. 1–2 (2009): 133–54.
 - ———. The Internet Audience: Constitution and Measurement. New York: Peter Lang, 2007.
-- Biocca, Frank A., ed. ‘Communication Yearbook’. In Opposing Conceptions of the Audience: The Active and Passive Hemispheres of Mass Communication Theory, 11:51–81. Newbury Park, CA: SAGE, 1988.
-- Blumtritt, Joerg, Sabria David, and Benedikt Koehler. ‘The Slow Media Manifesto’, 2010. http://en.slow-media.net/manifesto.
+- Biltereyst, Daniel, and Philippe Meers. “The Political Economy of Audiences.” In The Handbook of Political Economy of Communications, 415–35. John Wiley & Sons, Ltd, 2011. https://doi.org/10.1002/9781444395402.ch19.
+- Biocca, Frank A., ed. “Communication Yearbook.” In Opposing Conceptions of the Audience: The Active and Passive Hemispheres of Mass Communication Theory, 11:51–81. Newbury Park, CA: SAGE, 1988.
+- Blumtritt, Joerg, Sabria David, and Benedikt Koehler. “The Slow Media Manifesto,” 2010. http://en.slow-media.net/manifesto.
 - Booth, Paul. Playing Fans: Negotiating Fandom and Media in the Digital Age. Iowa City: Univ. of Iowa Press, 2015.
+- Bourdieu, Pierre. Distinction: A Social Critique of the Judgement of Taste. Cambridge, Mass: Harvard University Press, 1984.
 - boyd, danah. It’s Complicated: The Social Lives of Networked Teens. New Haven, CT: Yale Univ. Press, 2015.
-- Brown, Carrie, Elizabeth Hendrickson, and Jeremy Littau. ‘New Opportunities for Diversity: Twitter, Journalists and Traditionally Underserved Communities’. Journal of Social Media Studies 1, no. 1 (2014): 1–16.
+- Brillat-Savarin, Jean Anthelme. Physiologie du goût, ou, Méditations de gastronomie transcendante : ouvrage théorique, historique et a l’ordre du jour, dédié aux gastronomes parisiens. À Paris : A. Sautelet et Cie, libraires, Place de la Bourse, 1828. https://archive.org/details/physiologiedugou01bril/page/n5/mode/2up.
+- ———. The Physiology of Taste : Or, Meditations on Transcendental Gastronomy. London : Peter Davies, 1925. http://archive.org/details/physiologyoftast00bril_1.
+- Brown, Carrie, Elizabeth Hendrickson, and Jeremy Littau. “New Opportunities for Diversity: Twitter, Journalists and Traditionally Underserved Communities.” Journal of Social Media Studies 1, no. 1 (2014): 1–16.
 - Bruns, Axel. Blogs, Wikipedia, Second Life, and beyond: From Production to Produsage. New York: Peter Lang, 2008.
 - Butsch, Richard. The Citizen Audience: Crowds, Publics, and Individuals. New York: Routledge, 2007.
 - ———. The Making of American Audiences: From Stage to Television, 1750–1990. New York: Cambridge Univ. Press, 2000.
-- Caraway, Brett. ‘Audience Labor in the New Media Environment: A Marxian Revisiting of the Audience Commodity’. Media, Culture & Society 33, no. 5 (2011): 693–708.
-- Cooper, Roger, and Tang Tang. ‘Predicting Audience Exposure to Television in Today’s Media Environment: An Empirical Integration of Active-Audience and Structural Theories’. Journal of Broadcasting & Electronic Media 53, no. 3 (2009): 400–418.
-- Costello, Victor, and Barbara Moore. ‘Cultural Outlaws: An Examination of Audience Activity and Online Television Fandom’. Television & New Media 8, no. 2 (2007): 124–43.
-- Couldry, Nick. ‘The Productive “Consumer” and the Dispersed “Citizen”’. International Journal of Cultural Studies 7, no. 1 (2004): 21–32.
-- Dijck, José van. ‘Users like You? Theorizing Agency in User-Generated Content’. Media, Culture & Society 31, no. 1 (2009): 41–58.
-- Duffy, Brook. ‘Amateur, Autonomous, and Collaborative: Myths of Aspiring Female Cultural Producers in Web 2.0’. Critical Studies in Media Communication 32, no. 1 (2015): 48–64.
-- Dutta, Mohan, and Mahuya Pal. ‘Dialog Theory in Marginalized Settings: A Subaltern Studies Approach’. Communication Theory 20, no. 4 (1 November 2010): 363–86. https://doi.org/10.1111/j.1468-2885.2010.01367.x.
+- Caraway, Brett. “Audience Labor in the New Media Environment: A Marxian Revisiting of the Audience Commodity.” Media, Culture & Society 33, no. 5 (2011): 693–708.
+- Cooper, Roger, and Tang Tang. “Predicting Audience Exposure to Television in Today’s Media Environment: An Empirical Integration of Active-Audience and Structural Theories.” Journal of Broadcasting & Electronic Media 53, no. 3 (2009): 400–418.
+- Costello, Victor, and Barbara Moore. “Cultural Outlaws: An Examination of Audience Activity and Online Television Fandom.” Television & New Media 8, no. 2 (2007): 124–43.
+- Couldry, Nick. “The Productive ‘Consumer’ and the Dispersed ‘Citizen.’” International Journal of Cultural Studies 7, no. 1 (2004): 21–32.
+- Creeber, Glen. “‘Banality with a Beat’: The Paradox of Popular Culture.” In Dennis Potter Between Two Worlds, 110–48. United Kingdom: Palgrave Macmillan UK, 1998. https://doi.org/10.1057/9780230374652_5.
+- ———. “‘Banality with a Beat’: The Paradox of Popular Culture.” In Dennis Potter Between Two Worlds: A Critical Reassessment, edited by Glen Creeber, 110–48. London: Palgrave Macmillan UK, 1998. https://doi.org/10.1057/9780230374652_5.
+- Danchev, Alex. 100 Artists’ Manifestos: From the Futurists to the Stuckists. Penguin Books Limited, 2011.
+- Danielsson, Martin. “The Merits of Bourdieu in Qualitative Audience Research : Uncovering Class and Continuity in the Fragmented Space of Media Practice,” 2017. https://urn.kb.se/resolve?urn=urn:nbn:se:hh:diva-34768.
+- David, Carol. “Elitism in the Stories of US Art Museums: The Power of a Master Narrative.” Journal of Business and Technical Communication 13, no. 3 (July 1, 1999): 318–35. https://doi.org/10.1177/105065199901300305.
+- De Kosnik, Abigail. Rogue Archives: Digital Cultural Memory and Media Fandom. Cambridge, Massachusetts: The MIT Press, 2016.
+- Dijck, José van. “Users like You? Theorizing Agency in User-Generated Content.” Media, Culture & Society 31, no. 1 (2009): 41–58.
+- “Domestic Political Audiences and the Escalation of International Disputes - ProQuest.” Accessed March 2, 2024. https://www.proquest.com/docview/214423981?accountid=15020&sourcetype=Scholarly%20Journals.
+- Duffy, Brook. “Amateur, Autonomous, and Collaborative: Myths of Aspiring Female Cultural Producers in Web 2.0.” Critical Studies in Media Communication 32, no. 1 (2015): 48–64.
+- Dutta, Mohan, and Mahuya Pal. “Dialog Theory in Marginalized Settings: A Subaltern Studies Approach.” Communication Theory 20, no. 4 (November 1, 2010): 363–86. https://doi.org/10.1111/j.1468-2885.2010.01367.x.
+- Duval, Philippe Coulangeon, Julien, ed. The Routledge Companion to Bourdieu’s “Distinction.” London: Routledge, 2014. https://doi.org/10.4324/9781315852539.
 - Eaman, Ross. Channels of Influence: CBC Audience Research and the Canadian Public. Toronto: Univ. of Toronto Press, 1994.
-- Felt, Ulrike, Rayvon Fouché, Clark A. Miller, and Laurel Smith-Doerr, eds. The Handbook of Science and Technology Studies. Fourth edition. Cambridge, Massachusetts: The MIT Press, 2017. http://proxy.library.nyu.edu/login?url=https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=5052910.
-- Fuchs, Christian. ‘Web 2.0, Prosumption, and Surveillance’. Surveillance & Society 8, no. 3 (2011): 288–309.
+- Felt, Ulrike, Rayvon Fouché, Clark A. Miller, and Laurel Smith-Doerr, eds. The Handbook of Science and Technology Studies. Fourth edition. Cambridge, Massachusetts: The MIT Press, 2017.
+- Fiske, John. Television Culture. 2nd ed. London ; Routledge, 2011. https://doi.org/10.4324/9780203837153.
+- ———. Understanding Popular Culture. 2nd ed. Routledge Classics. London ; Routledge, 2010. https://doi.org/10.4324/9780203837177.
+- Flueckiger, Joyce Burkhalter. “‘He Should Have Worn a Sari’: A ‘Failed’ Performance of a Central Indian Oral Epic.” TDR (1988-) 32, no. 1 (April 1, 1988): 159–69. https://doi.org/10.2307/1145877.
+- Fuchs, Christian. “Web 2.0, Prosumption, and Surveillance.” Surveillance & Society 8, no. 3 (2011): 288–309.
 - Fuller, Kathryn H. At the Picture Show: Small-Town Audiences and the Creation of Movie Fan Culture. Washington, DC: Smithsonian Institute, 1996.
-- Gandy, Oscar H., ed. ‘The Handbook of New Media’. In The Real Digital Divide: Citizens v. Consumers, 448–60. Thousand Oaks, CA: SAGE, 2002.
-- Garrett, R. Kelly, and Natalie Jomini Stroud. ‘Partisan Paths to Exposure Diversity: Differences in pro- and Counter-Attitudinal News Consumption’. Journal of Communication 64, no. 4 (2014): 680–701.
-- Gassner, Patricia. ‘The End of the Audience: How the Nature of Audiences Changed’. Global Media Journal, African Edition 1, no. 1 (2007): 120–29.
+- Gandy, Oscar H., ed. “The Handbook of New Media.” In The Real Digital Divide: Citizens v. Consumers, 448–60. Thousand Oaks, CA: SAGE, 2002.
+- Garofalo, Damiano. Political Audiences: A Reception History of Early Italian Television. Italian Frame ; n. 2. Place of publication not identified: Mimesis International, 2016.
+- Garrett, R. Kelly, and Natalie Jomini Stroud. “Partisan Paths to Exposure Diversity: Differences in pro- and Counter-Attitudinal News Consumption.” Journal of Communication 64, no. 4 (2014): 680–701.
+- Gassner, Patricia. “The End of the Audience: How the Nature of Audiences Changed.” Global Media Journal, African Edition 1, no. 1 (2007): 120–29.
+- George, Zach St. “The Comet Strike Theory That Just Won’t Die.” The New York Times, March 5, 2024, sec. Magazine. https://www.nytimes.com/2024/03/05/magazine/younger-dryas-comet-civilization.html.
 - Gilmore, Dan. We the Media: Grassroots Journalism by the People, for the People. New York: O’Reilly Media, 2006.
-- Graham, Roderick, and Shawn Smith. ‘The Content of Our #characters: Black Twitter as Counterpublic’. Sociology of Race & Ethnicity 2, no. 4 (2016): 433–49.
-- Griffen-Foley, Bridget. ‘From Tit-Bits to Big Brother: A Century of Audience Participation in the Media’. Media, Culture, and Society 26, no. 4 (2004): 533–48.
-- Hall, Stuart, ed. ‘Media Studies: A Reader’. In Encoding/Decoding, 28–38. New York: New York Univ. Press, 2009.
+- Graham, Roderick, and Shawn Smith. “The Content of Our #characters: Black Twitter as Counterpublic.” Sociology of Race & Ethnicity 2, no. 4 (2016): 433–49.
+- Gray, Jonathan, Cornel Sandvoss, and C. Lee Harrington. Fandom: Identities and Communities in a Mediated World. Second edition. New York, NY: New York University Press, 2017.
+- Griffen-Foley, Bridget. “From Tit-Bits to Big Brother: A Century of Audience Participation in the Media.” Media, Culture, and Society 26, no. 4 (2004): 533–48.
+- Hall, Stuart, ed. Media Studies: A Reader. New York: New York Univ. Press, 2009.
 - Handel, Leo. Hollywood Looks at Its Audience: A Report of Film Audience Research. Urbana: Univ. of Illinois Press, 1950.
-- Hargittai, Eszter, and Gina Walejko. ‘The Participation Divide: Content Creation and Sharing in the Digital Age’. Information, Communication, & Society 11, no. 2 (2008): 239–56.
+- Hargittai, Eszter, and Gina Walejko. “The Participation Divide: Content Creation and Sharing in the Digital Age.” Information, Communication, & Society 11, no. 2 (2008): 239–56.
+- Hebdige, Dick. Subculture: The Meaning of Style. New Accents. London ; Routledge, 1991.
 - Heeter, Carrie, and Bradley S. Greenberg. Cableviewing. Norwood, NJ: Ablex, 1988.
-- Herzog, Herta, ed. ‘Radio Research 1942–43’. In What Do We Really Know about Daytime Serial Listeners?, 3–33. New York: Duell, Solan & Pearce, 1944.
-- Hesmondhalgh, David. ‘User-Generated Content, Free Labour and the Cultural Industries’. Ephemera: Theory & Politics in Organization 10, no. 3 (2010): 267–84.
+- Herzog, Herta, ed. “Radio Research 1942–43.” In What Do We Really Know about Daytime Serial Listeners?, 3–33. New York: Duell, Solan & Pearce, 1944.
+- Hesmondhalgh, David. “User-Generated Content, Free Labour and the Cultural Industries.” Ephemera: Theory & Politics in Organization 10, no. 3 (2010): 267–84.
+- Hills, Matt. “From Fan Culture/Community to the Fan World: Possible Pathways and Ways of Having Done Fandom.” Palabra-Clave 20, no. 4 (2017): 856–83. https://doi.org/10.5294/pacla.2017.20.4.2.
 - Hills, Matthew. Fan Cultures. London: Routledge, 2002.
-- Horton, Donald, and R. Richard Wohl. ‘Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance’. Psychiatry 19 (1956): 215–29.
+- Horkheimer, Max, and Theodor W. Adorno. Dialectic of Enlightenment: Philosophical Fragments. Translated by Gunzelin Schmidt-Noerr. Cultural Memory in the Present. Stanford, Calif.: Stanford University Press, 2002.
+- ———. Dialektik der Aufklärung: philosophische Fragmente. Ungekürzte Ausg. Frankfurt am Main: Fischer Taschenbuch Verlag, 1988.
+- Horton, Donald, and R. Richard Wohl. “Mass Communication and Para-Social Interaction: Observations on Intimacy at a Distance.” Psychiatry 19 (1956): 215–29.
+- International Conference on Business and Technology. “Explore Business, Technology Opportunities and Challenges after the Covid-19 Pandemic.” Lecture Notes in Networks and Systems ; v. 495. Cham: Springer, 2023. https://doi.org/10.1007/978-3-031-08954-1.
+- Iyengar, Shanto. Media Politics: A Citizen’s Guide. Third edition. New York: W. W. Norton & Company, 2016.
 - Jenkins, Henry. Convergence Culture: Where Old and New Media Collide. New York: New York Univ. Press, 2006.
-- ———. Textual Poachers: Television Fans and Participatory Culture. New York: Routledge, 1992.
-- Jermyn, Deborah, and Su Holmes. ‘The Audience Is Dead; Long Live the Audience!: Interactivity, “Telephilia,” and the Contemporary Television Audience’. Critical Studies in Television 1, no. 1 (2006): 49–57.
-- Jhally, Sut. ‘Probing the Blindspot: The Audience Commodity’. Canadian Journal of Political and Social Theory 6, no. 1–2 (1982): 204–10.
+- ———. Textual Poachers: Television Fans and Participatory Culture. Updated 20th anniversary edition. New York: Routledge, 2013.
+- Jensen, Joli. “Fandom as Pathology: The Consequences of Characterization.” In The Adoring Audience: Fan Culture and Popular Media, edited by Lisa A. Lewis. London ; Routledge, 1992.
+- Jensen, Klaus Bruhn, and Karl Erik Rosengren. “Five Traditions in Search of the Audience.” European Journal of Communication 5, no. 2 (June 1, 1990): 207–38. https://doi.org/10.1177/0267323190005002005.
+- Jermyn, Deborah, and Su Holmes. “The Audience Is Dead; Long Live the Audience!: Interactivity, ‘Telephilia,’ and the Contemporary Television Audience.” Critical Studies in Television 1, no. 1 (2006): 49–57.
+- Jhally, Sut. “Probing the Blindspot: The Audience Commodity.” Canadian Journal of Political and Social Theory 6, no. 1–2 (1982): 204–10.
 - Jhally, Sut, and Justin Lewis. Enlightened Racism: The Cosby Show, Audiences, and the Myth of the American Dream. Boulder, CO: Westview, 1992.
-- Jhally, Sut, and Bill Livant. ‘Watching as Working: The Valorization of Audience Consciousness’. Journal of Communication 36 (1986): 124–43.
-- Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. ‘Uses and Gratifications Research’. Public Opinion Quarterly 37, no. 4 (1973): 509–23.
-- Kraidy, Marwan M. ‘Hybridity in Cultural Globalization’. Communication Theory 12, no. 3 (2002): 316–39. https://doi.org/10.1111/j.1468-2885.2002.tb00272.x.
-- Krämer, Sybille. ‘The Messenger Model’. In Medium, Messenger, Transmission, 75–86. Amsterdam University Press, 2015. https://doi.org/10.2307/j.ctt19630z0.8.
-- Ksiazek, Thomas B., and James G. Webster. ‘Cultural Proximity and Audience Behavior: The Role of Language in Patterns of Polarization and Multicultural Fluency’. Journal of Broadcasting & Electronic Media 52, no. 3 (2008): 485–503.
-- Langlois, Ganaele. ‘Participatory Culture and the New Governance of Communication: The Paradox of Participatory Media’. Television & New Media 14, no. 2 (2013): 91–105.
+- Jhally, Sut, and Bill Livant. “Watching as Working: The Valorization of Audience Consciousness.” Journal of Communication 36 (1986): 124–43.
+- Jurafsky, Dan, and Yoshiko Matsumoto. “Bourdieu’s Distinction.” Accessed March 17, 2020. https://web.stanford.edu/class/think53/bourdieu17.pdf.
+- Katz, Elihu, Jay G. Blumler, and Michael Gurevitch. “Uses and Gratifications Research.” Public Opinion Quarterly 37, no. 4 (1973): 509–23.
+- Kraidy, Marwan M. “Hybridity in Cultural Globalization.” Communication Theory 12, no. 3 (2002): 316–39. https://doi.org/10.1111/j.1468-2885.2002.tb00272.x.
+- Krämer, Sybille. “The Messenger Model.” In Medium, Messenger, Transmission, 75–86. Amsterdam University Press, 2015. https://doi.org/10.2307/j.ctt19630z0.8.
+- Ksiazek, Thomas B., and James G. Webster. “Cultural Proximity and Audience Behavior: The Role of Language in Patterns of Polarization and Multicultural Fluency.” Journal of Broadcasting & Electronic Media 52, no. 3 (2008): 485–503.
+- Kumar, Sangeet, and Radhika Parameswaran. “Charting an Itinerary for Postcolonial Communication and Media Studies.” Journal of Communication 68, no. 2 (April 1, 2018): 347–58. https://doi.org/10.1093/joc/jqx025.
+- Kümpel, Anna Sophie. “Using Messaging Apps in Audience Research: An Approach to Study Everyday Information and News Use Practices.” Digital Journalism 10, no. 1 (January 2, 2022): 188–99. https://doi.org/10.1080/21670811.2020.1864219.
+- Ladd, Jonathan M. Why Americans Hate the Media and How It Matters. Princeton University Press, 2011. https://doi.org/10.1515/9781400840359.
+- Langlois, Ganaele. “Participatory Culture and the New Governance of Communication: The Paradox of Participatory Media.” Television & New Media 14, no. 2 (2013): 91–105.
 - Lazarsfeld, Paul F., and Harry Field. The People Look at Radio. Chapel Hill: Univ. of North Carolina Press, 1946.
-- Levy, Mark R. ‘The Lazarsfeld-Stanton Program Analyzer: A Historical Note’. Journal of Communication 32, no. 4 (1982): 30–38.
-- Livingstone, Sonia, ed. ‘A Companion to Media Studies’. In The Changing Nature of Audiences: From the Mass Audience to the Interactive Media User, 337–59. Oxford: Basil Blackwell, 2003.
-- ———, ed. ‘Audiences and Publics: When Cultural Engagement Matters for the Public Sphere’. In On the Relation between Audiences and Publics, 17–42. Bristol, UK: Intellect, 2005.
-- ———. ‘The Participation Paradigm in Audience Research’. The Communication Review 16, no. 1–2 (2013): 21–30.
-- Livingstone, Sonia|Das, Ranjana, ed. ‘A Companion to New Media Dynamics’. In The End of Audiences? Theoretical Echoes of Reception amid the Uncertainties of Use, 104–21. Oxford: Wiley-Blackwell, 2013.
-- Loosen, Wiebke, and Jan-Hinrik Schmidt. ‘(Re)Discovering the Audience: The Relationship between Journalism and Audience in Networked Digital Media’. Information, Communication & Society 15, no. 6 (2012): 867–87.
+- Levy, Mark R. “The Lazarsfeld-Stanton Program Analyzer: A Historical Note.” Journal of Communication 32, no. 4 (1982): 30–38.
+- Lewis, Lisa A. “Introduction.” In The Adoring Audience: Fan Culture and Popular Media, by Lisa A. Lewis. London ; Routledge, 1992.
+- ———, ed. The Adoring Audience: Fan Culture and Popular Media. London ; Routledge, 1992.
+- Livingstone, Sonia, ed. A Companion to Media Studies. Oxford: Basil Blackwell, 2003.
+- ———, ed. “Audiences and Publics: When Cultural Engagement Matters for the Public Sphere.” In On the Relation between Audiences and Publics, 17–42. Bristol, UK: Intellect, 2005.
+- ———. “The Participation Paradigm in Audience Research.” The Communication Review 16, no. 1–2 (2013): 21–30.
+- Livingstone, Sonia|Das, Ranjana, ed. A Companion to New Media Dynamics. Oxford: Wiley-Blackwell, 2013.
+- Loosen, Wiebke, and Jan-Hinrik Schmidt. “(Re)Discovering the Audience: The Relationship between Journalism and Audience in Networked Digital Media.” Information, Communication & Society 15, no. 6 (2012): 867–87.
+- Lopes, Berys Gaut, Dominic, ed. The Routledge Companion to Aesthetics. 3rd ed. London: Routledge, 2013. https://doi.org/10.4324/9780203813034.
 - Maltby, Richard, and Melvyn Stokes. American Movie Audiences: From the Turn of the Century to the Early Sound Era. London: British Film Institute, 1999.
+- Marinetti, Filippo Tommaso. Manifesto of Futurism: Published in Le Figaro, February 20, 1909. Yale Library Associates, 1983.
+- Mazzoleni, Gianpietro, Kevin G. Barnhurst, Ken’ichi Ikeda, Rousiley Maia, and Hartmut Wessler. The International Encyclopedia of Political Communication. Chichester, UK: John Wiley & Sons, 2015. https://doi.org/10.1002/9781118541555.
+- McIntyre, Anthony P. “Millennials Protest: Hipsters, Privilege and Homological Obstruction.” In New Uses of Bourdieu in Film and Media Studies, edited by Guy Austin, 1st ed., 89–106. Berghahn Books, 2016. https://doi.org/10.2307/j.ctvr694xn.9.
 - McQuail, Denis. Audience Analysis. Thousand Oaks, Calif. ; SAGE, 1997.
 - ———. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010.
+- Mears, Ashley. “Bringing Bourdieu to a Content Farm: Social Media Production Fields and the Cultural Economy of Attention.” Social Media + Society 9, no. 3 (July 1, 2023): 20563051231193027. https://doi.org/10.1177/20563051231193027.
 - Media Choice: A Theoretical and Empirical Overview. New York: Routledge, 2009.
-- Meehan, Eileen R. ‘Ratings and the Institutional Approach: A Third Answer to the Commodity Question’. Critical Studies in Mass Communication 1, no. 2 (1984): 216–25.
-- Messing, Solomon, and Sean J. Westwood. ‘Selective Exposure in the Age of Social Media: Endorsements Trump Partisan Source Affiliation When Selecting News Online’. Communication Research 41, no. 8 (2014): 1042–63.
+- Meehan, Eileen R. “Ratings and the Institutional Approach: A Third Answer to the Commodity Question.” Critical Studies in Mass Communication 1, no. 2 (1984): 216–25.
+- Meisel, Martin. “The Role of the Audience.” In How Plays Work: Reading and Performance, edited by Martin Meisel, 0. Oxford University Press, 2007. https://doi.org/10.1093/acprof:oso/9780199215492.003.0018.
+- Merten, Kai, and Lucia Krämer, eds. Postcolonial Studies Meets Media Studies: A Critical Encounter. transcript Verlag, 2016. https://doi.org/10.1515/9783839432945.
+- Messing, Solomon, and Sean J. Westwood. “Selective Exposure in the Age of Social Media: Endorsements Trump Partisan Source Affiliation When Selecting News Online.” Communication Research 41, no. 8 (2014): 1042–63.
 - Mobilising the Audience. St. Lucia, Australia: Univ. of Queensland Press, 2002.
-- Morley, David. ‘Active Audience Theory: Pendulums and Pitfalls’. Journal of Communication 43, no. 4 (1993): 13–19.
+- Moore, Ryan. “Alternative to What? Subcultural Capital and the Commercialization of a Music Scene.” Deviant Behavior 26, no. 3 (January 1, 2005): 229–52.
+- Morley, David. “Active Audience Theory: Pendulums and Pitfalls.” Journal of Communication 43, no. 4 (1993): 13–19.
 - ———. The Nationwide Audience: Structure and Decoding. London: British Film Institute, 1980.
-- Muliaee, Maryam, and Mani Merhvarz. ‘Mapping Media Studies’. MAST. The Journal of Media Art Study and Theory 1, no. 1 (2020). https://mast-nemla.org/wp-content/uploads/2020/04/MAST_Vol1_No1.pdf.
-- Murdock, Graham. ‘Blindspots about Western Marxism: A Reply to Dallas Smythe’. Canadian Journal of Political and Social Theory 2, no. 2 (1978): 109–19.
+- Muliaee, Maryam, and Mani Merhvarz. “Mapping Media Studies.” MAST. The Journal of Media Art Study and Theory 1, no. 1 (2020). https://mast-nemla.org/wp-content/uploads/2020/04/MAST_Vol1_No1.pdf.
+- Murdock, Graham. “Blindspots about Western Marxism: A Reply to Dallas Smythe.” Canadian Journal of Political and Social Theory 2, no. 2 (1978): 109–19.
+- Murty, Madhavi. “Postcolonial Media Studies.” Feminist Media Histories 4, no. 2 (April 1, 2018): 147–51. https://doi.org/10.1525/fmh.2018.4.2.147.
+- Mytton, Graham. Media Audience Research: A Guide for Professionals. 3rd edition. New Delhi, India: SAGE, 2016.
 - Napoli, Philip M. Audience Economics: Media Institutions and the Audience Marketplace. New York: Columbia Univ. Press, 2003.
 - ———. Audience Evolution: New Technologies and the Transformation of Media Audiences. New York: Columbia Univ. Press, 2011.
-- ———. ‘Audience Measurement and Media Policy: Audience Economics, Diversity, and the Local People Meter’. Communication Law & Policy 10, no. 4 (2005): 349–82.
-- Napoli, Philip, and Steve Voorhees. ‘Audience Studies’. In Oxford Bibliographies. Oxford University Press, 2024. https://doi.org/10.1093/OBO/9780199756841-0135.
+- ———. “Audience Measurement and Media Policy: Audience Economics, Diversity, and the Local People Meter.” Communication Law & Policy 10, no. 4 (2005): 349–82.
+- Napoli, Philip, and Steve Voorhees. “Audience Studies.” In Oxford Bibliographies. Oxford University Press, 2024. https://doi.org/10.1093/OBO/9780199756841-0135.
+- Nelson, Jacob L. “The Persistence of the Popular in Mobile News Consumption.” Digital Journalism 8, no. 1 (January 2, 2020): 87–102. https://doi.org/10.1080/21670811.2019.1612766.
 - Neuman, W. Russell. The Future of the Mass Audience. New York: Cambridge Univ. Press, 1991.
+- Newitz, Annalee. “The Taylor Swift ‘psy Op’ Conspiracy Theory Offers a Troubling Lesson.” NewScientist, February 21, 2024. https://www.newscientist.com/article/mg26134793-500-the-taylor-swift-psy-op-conspiracy-theory-offers-a-troubling-lesson/.
+- O’Brien, Dave, and Lisa Ianni. “New Forms of Distinction: How Contemporary Cultural Elites Understand ‘Good’ Taste.” The Sociological Review 71, no. 1 (January 1, 2023): 201–20. https://doi.org/10.1177/00380261221128144.
 - Ohmer, Susan. George Gallup in Hollywood. New York: Columbia Univ. Press, 2006.
+- Osgerby, William. “1. Subcultures, Popular Music and Social Change.” In Subcultures, Popular Music and Social Change. Newcastle-upon-Tyne, UNITED KINGDOM: Cambridge Scholars Publishing, 2014. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=1790933.
 - Oswell, David. Television, Childhood, and the Home: A History of the Making of the Child Television Audience in Britain. Oxford: Oxford Univ. Press, 2002.
+- Penley, Constance. NASA/Trek: Popular Science and Sex in America. London ; Verso, 1997.
+- Pomiès, Anissa, Zeynep Arsel, and Jonathan Bean. “Taste.” Consumption Markets & Culture 24, no. 1 (January 2, 2021): 1–5. https://doi.org/10.1080/10253866.2020.1803846.
 - Press, Andrea. Women Watching Television: Gender, Class, and Generation in the American Television Experience. Philadelphia: Univ. of Pennsylvania Press, 1991.
 - Prior, Markus. Post-Broadcast Democracy: How Media Choice Increases Inequality in Political Involvement and Polarizes Elections. New York: Cambridge Univ. Press, 2007.
-- Raboy, Marc, Bram Dov Abramson, Serge Proulx, and Roxanne Welters. ‘Media Policy, Audiences, and Social Demand: Research at the Interface of Policy Studies and Audience Studies’. Television & New Media 2, no. 2 (2001): 95–115.
+- Raboy, Marc, Bram Dov Abramson, Serge Proulx, and Roxanne Welters. “Media Policy, Audiences, and Social Demand: Research at the Interface of Policy Studies and Audience Studies.” Television & New Media 2, no. 2 (2001): 95–115.
 - Radway, Janice A. Reading the Romance: Women, Patriarchy, and Popular Literature. Chapel Hill: Univ. of North Carolina Press, 1984.
+- ———. Reading the Romance: Women, Patriarchy, and Popular Literature. Chapel Hill: University of North Carolina Press, 1991.
+- Rao, Leena. “Lady Gaga’s Manager: We Make Music Videos For YouTube.” TechCrunch (blog), May 26, 2010. https://techcrunch.com/2010/05/26/lady-gagas-manager-we-make-music-videos-for-youtube/.
 - Richter, David H. The Critical Tradition: Classic Texts and Contemporary Trends. 3rd ed. Boston: Bedford/StMartin’s, 2007.
-- Roach, Colleen. ‘Cultural Imperialism and Resistance in Media Theory and Literary Theory’. Media, Culture & Society 19, no. 1 (1 January 1997): 47–66. https://doi.org/10.1177/016344397019001004.
-- Ross, Philippe. ‘Were Producers and Audiences Ever Separate? Conceptualizing Media Production as Social Situation’. Television & New Media 15, no. 2 (2014): 157–74.
+- Roach, Colleen. “Cultural Imperialism and Resistance in Media Theory and Literary Theory.” Media, Culture & Society 19, no. 1 (January 1, 1997): 47–66. https://doi.org/10.1177/016344397019001004.
+- Ross, Philippe. “Were Producers and Audiences Ever Separate? Conceptualizing Media Production as Social Situation.” Television & New Media 15, no. 2 (2014): 157–74.
+- Russell, Catherine. “New Media and Film History: Walter Benjamin and the Awakening of Cinema.” Cinema Journal 43, no. 3 (May 27, 2004): 81–85. https://doi.org/10.1353/cj.2004.0024.
 - Sandvoss, Cornel. Fans: The Mirror of Consumption. Cambridge, UK: Policy Press, 2005.
-- Sato, Takeshi. ‘An Alternative Approach to the Theory of the Media Audience: Toward the Theory of the Audience as Decoder (Discussins on the New Theory of Audience)’. Japanese journalism review 37 (1988): 113-130,318-31. https://doi.org/10.24460/shinbungaku.37.0_113.
+- Sato, Takeshi. “An Alternative Approach to the Theory of the Media Audience: Toward the Theory of the Audience as Decoder (Discussins on the New Theory of Audience).” Japanese journalism review 37 (1988): 113-130,318-31. https://doi.org/10.24460/shinbungaku.37.0_113.
 - Say It Loud! African American Audiences, Media, and Identity. New York: Routledge, 2013.
+- Schmidt, Ruth Wright, Geir Johansen, Panagiotis A. Kanellopoulos, Patrick, ed. The Routledge Handbook to Sociology of Music Education. London: Routledge, 2021. https://doi.org/10.4324/9780429504631.
+- Scodel, Ruth. Listening to Homer: Tradition, Narrative, and Audience. Ann Arbor: University of Michigan Press, 2009.
 - Scolari, Carlos A. On the Evolution of Media: Understanding Media Change. London: Routledge, 2023. https://doi.org/10.4324/9781003215233.
-- Semujju, Brian. ‘Theorizing Dependency Relations in Small Media’. Communication Theory (1050-3293) 30, no. 4 (November 2020): 370–87. https://doi.org/10.1093/ct/qtz032.
-- Shirky, Clay. ‘NEWSPAPERS AND THINKING THE UNTHINKABLE’. Edge.Org (blog), 2008. https://www.edge.org/conversation/clay_shirky-newspapers-and-thinking-the-unthinkable#:~:text=NEWSPAPERS%20AND%20THINKING%20THE%20UNTHINKABLE%20Back%20in%201993%2C,published%20by%20the%20Miami%20Herald%20and%20syndicated%20widely.
+- Seiter, Ellen. “Making Distinctions in TV Audience Research: Case Study of a Troubling Interview.” Cultural Studies 4, no. 1 (January 1, 1990): 61–84. https://doi.org/10.1080/09502389000490051.
+- Semujju, Brian. “Theorizing Dependency Relations in Small Media.” Communication Theory (1050-3293) 30, no. 4 (November 2020): 370–87. https://doi.org/10.1093/ct/qtz032.
+- Shirky, Clay. “NEWSPAPERS AND THINKING THE UNTHINKABLE.” Edge.Org (blog), 2008. https://www.edge.org/conversation/clay_shirky-newspapers-and-thinking-the-unthinkable#:~:text=NEWSPAPERS%20AND%20THINKING%20THE%20UNTHINKABLE%20Back%20in%201993%2C,published%20by%20the%20Miami%20Herald%20and%20syndicated%20widely.
 - Silvey, Robert. Who’s Listening? The Story of BBC Audience Research. London: Allen and Unwin, 1974.
-- Singer, Jane. ‘User-Generated Visibility: Secondary Gatekeeping in a Shared Media Space’. New Media & Society 16, no. 1 (2014): 55–73.
-- Smythe, Dallas. ‘Communications: Blindspot of Western Marxism’. Canadian Journal of Political and Social Theory 1, no. 3 (1977): 1–27.
+- Singer, Jane. “User-Generated Visibility: Secondary Gatekeeping in a Shared Media Space.” New Media & Society 16, no. 1 (2014): 55–73.
+- Smythe, Dallas. “Communications: Blindspot of Western Marxism.” Canadian Journal of Political and Social Theory 1, no. 3 (1977): 1–27.
 - Spigel, Lynn. Make Room for TV: Television and the Family Ideal in Postwar America. Chicago: Univ. of Chicago Press, 1992.
+- Spracklen, Karl. “There Is (Almost) No Alternative: The Slow ‘Heat Death’ of Music Subcultures and the Instrumentalization of Contemporary Leisure.” Annals of Leisure Research 17, no. 3 (July 3, 2014): 252–66. https://doi.org/10.1080/11745398.2014.926226.
 - Steiner, Gary A. The People Look at Television: A Study of Audience Attitudes. New York: Knopf, 1963.
 - Stoneman, Richard. The Greek Experience of India: From Alexander to the Indo-Greeks. Princeton University Press, 2019. https://doi.org/10.1515/9780691185385.
 - Sullivan, John L. Media Audiences Effects, Users, Institutions, and Power. 2nd ed. Thousand Oaks: SAGE Publications, 2019.
 - Takahashi, Toshie. Audience Studies: A Japanese Perspective. New York: Routledge, 2009. https://doi.org/10.4324/9780203871980.
-- Terranova, Tiziana. ‘Free Labor: Producing Culture for the Digital Economy’. Social Text 63, no. 18 (2000): 33–57.
-- Tewksbury, David. ‘The Seeds of Audience Fragmentation: Specialization in the Use of Online News Sites’. Journal of Broadcasting & Electronic Media 49, no. 3 (2005): 332–48.
+- Tameez, Hanaa’. “‘Nobody Solves Media except Temporarily’: Four Indie Media Owners on Money, Sustainability, and ‘Making Cooler, Weirder Things.’” Nieman Lab (blog). Accessed February 15, 2024. https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/.
+- Terranova, Tiziana. “Free Labor: Producing Culture for the Digital Economy.” Social Text 63, no. 18 (2000): 33–57.
+- Tewksbury, David. “The Seeds of Audience Fragmentation: Specialization in the Use of Online News Sites.” Journal of Broadcasting & Electronic Media 49, no. 3 (2005): 332–48.
+- The Century of the Self. Documentary. British Broadcasting Corporation (BBC), RDF Media, 2002. https://www.youtube.com/playlist?list=PLktPdpPFKHfoXRfTPOwyR8SG8EHLWOSj6.
 - The Handbook of Media Audiences. West Sussex, UK: Wiley-Blackwell, 2011.
+- Vens, Hartwig. “Pop - mehr als nur Musik.” Deutschlandfunk Kultur, March 17, 2014. https://www.deutschlandfunkkultur.de/theorie-pop-mehr-als-nur-musik.950.de.html?dram:article_id=280214.
+- Wang, Mengdi, and Dong Li. “What Motivates Audience Comments on Live Streaming Platforms?” PLOS ONE 15, no. 4 (April 9, 2020): e0231255. https://doi.org/10.1371/journal.pone.0231255.
+- Warth, Ellen Seiter, Hans Borchers, Gabriele Kreutzner, Eva-Maria, ed. Remote Control: Television, Audiences, and Cultural Power. London: Routledge, 2013. https://doi.org/10.4324/9780203768976.
+- Wasko, Janet, Graham Murdock, and Helena Sousa. The Handbook of Political Economy of Communications. Global Handbooks in Media and Communication Research. Chichester, West Sussex ; Wiley-Blackwell, 2011.
 - Webster, James G. The Marketplace of Attention: How Audiences Take Shape in the Digital Age. New Haven, CT: Yale Univ. Press, 2014.
-- Webster, James G., and Thomas Ksiazek. ‘The Dynamics of Audience Fragmentation: Public Attention in an Age of Digital Media’. Journal of Communication 62, no. 1 (2012): 39–56.
-- Webster, James G., and Shu-Fang Lin. ‘The Internet Audience: Web Use as Mass Behavior’. Journal of Broadcasting and Electronic Media 46, no. 1 (2002): 1–12.
+- Webster, James G., and Thomas Ksiazek. “The Dynamics of Audience Fragmentation: Public Attention in an Age of Digital Media.” Journal of Communication 62, no. 1 (2012): 39–56.
+- Webster, James G., and Shu-Fang Lin. “The Internet Audience: Web Use as Mass Behavior.” Journal of Broadcasting and Electronic Media 46, no. 1 (2002): 1–12.
 - Webster, James G., and Patricia F. Phalen. The Mass Audience: Rediscovering the Dominant Model. Mahwah, NJ: Lawrence Erlbaum Associates, 1997.
+
+***
+  
+<sup>***[Media Audiences](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+
 
