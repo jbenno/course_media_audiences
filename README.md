@@ -1,7 +1,7 @@
 # Media Audiences
 **Instructor: Joerg Blumtritt**  
 
-In ***Media Audiences*** we look at the recipients of media. After introducing basic ideas, looking at what is commonly understud when we talk about listeners, readers, viewers, or audiences in theatres, or cinemas, we critically examine the construction of "an audience". We look at media as being consumed, decoded, or actively engaged with, explore concepts like the taste, cultural industry, fandom and propaganda. We introduce the methods and tools of empirical audience research, and we apply what we have established in designing and conducting an actual audience research project.
+In ***Media Audiences*** we study the recipients' side of media. After introducing basic ideas, looking at what is commonly understud when we talk about listeners, readers, viewers, or audiences in theatres, or cinemas, we critically examine how "an audience" is constructed. We look at media as being consumed, decoded, or actively engaged with by their recipients, explore concepts like the taste, cultural industry, fandom and propaganda. We introduce the methods and tools of empirical audience research, and we apply what we have established in designing and conducting an actual audience research project.
 
 ### Readings
 
