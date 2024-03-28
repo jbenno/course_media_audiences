@@ -111,10 +111,11 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 ### 13 and 14	Finilizing the research project
 
 
-#### Assignments
-The assignments are listed in newclasses.nyu.edu  
-[Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
+***
 
+#### Assignments
+The assignments are listed on Canvas. 
+Please look at the [Overview on the weekly scheduled assignments and talks](https://docs.google.com/spreadsheets/d/10EElPgwd0SA_fW2tWd3AjJ3SswVbAe7kLfOHETJjV4k/edit?usp=sharing)  
 
 ***
   
