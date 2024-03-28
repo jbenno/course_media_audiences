@@ -21,37 +21,72 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 ## Schedule
 *Work in progress - subject to change*
 
-#### 1 [Media and audiences](/files/01.md)
-Communication, media and mass media, ultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle, and critique of the concept of "masses"
-	
-#### 2	[Audience measurement](/files/02.md)
-Measurement and empirical audience research, advertising and PR
-	
-#### 3	[Taste](/files/03.md)
-The culture of taste, finding and performing distinction, cultural and social capital, popular culture
-	
-#### 4	[The Individual](/files/06.md)
-Fragmentation? Mobile and social media, the long tail
-	
-#### 5	[Surveillance and gratification](/files/08.md)
-The Great Other
-	
-#### 6	[Passive or active](/files/09.md)
-Consumers, producers, and views from outside capitalism
-	
-#### 7	[Reading audiences](/files/10.md)
-Letters, manuscripts, printed texts
-	
-#### 8	[Homogeneity and identity](/files/11.md)
-Forming audiences, structuring communities
-	
-#### 9	[Traditions](/files/12.md)
-Conveying culture, translation, rituals, liturgies, and institutional power
-	
-#### 10	[The future](/files/13.md)
-Speculation on what might come
-	
-#### 11	[Final session](/files/14.md)
+
+### 1	Introduction
+- Sullivan, John L. Media Audiences Effects, Users, Institutions, and Power. 2nd ed. Thousand Oaks: SAGE Publications, 2019. Chapter “History and Concept of the Audience”, pages 2-27
+- Semujju, Brian. ‘Theorizing Dependency Relations in Small Media’. Communication Theory (1050-3293) 30, no. 4 (November 2020): 370–87. https://doi.org/10.1093/ct/qtz032"
+
+### 2	Media and audiences: Cultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle
+- Abercrombie, Nick, and Brian Longhurst. Audiences: A Sociological Theory of Performance and Imagination. Thousand Oaks, CA: SAGE, 1998. Chapter 1: ""Changing Audiences; Changing Paradigms of Research""
+- Benjamin, Walter. The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media. Cambridge, Mass.: Belknap Press of Harvard University Press, 2008.
+
+### 3	Measurement and empirical audience research, advertising and PR
+
+- McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 3: Concepts and Models for Mass Communication (p. 47 ff)
+- Investigate the following organizations through their websites:
+ - https://mediaratingcouncil.org/
+ - https://www.iab.com/
+ - https://www.ofcom.org.uk/
+ - https://www.barcindia.co.in/
+ - https://www.searchenginejournal.com/what-is-programmatic-advertising/462655/ 
+
+- The Century of the Self. Documentary. British Broadcasting Corporation (BBC), RDF Media, 2002. https://www.youtube.com/playlist?list=PLktPdpPFKHfoXRfTPOwyR8SG8EHLWOSj6
+
+### 4	Measurement and empirical audience research, advertising and PR
+
+- Nieman Lab. ‘“Nobody Solves Media except Temporarily”: Four Indie Media Owners on Money, Sustainability, and “Making Cooler, Weirder Things”’. https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/
+- https://www.pewresearch.org and
+- https://www.insiderintelligence.com/articles
+
+### 5	Taste, distinction, popular culture and the subtle difference
+
+- Mears, Ashley. ‘Bringing Bourdieu to a Content Farm: Social Media Production Fields and the Cultural Economy of Attention’. Social Media + Society 9, no. 3 (1 July 2023): 20563051231193027. https://doi.org/10.1177/20563051231193027
+- Airoldi, Massimo. ‘Digital Traces of Taste: Methodological Pathways for Consumer Research’. Consumption Markets & Culture 24, no. 1 (2 January 2021): 97–117. https://doi.org/10.1080/10253866.2019.1690998"
+
+### 6	Taste, distinction, popular culture and the subtle difference
+
+- McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 15 and 17
+- Mytton, Graham. Media Audience Research: A Guide for Professionals. 3rd edition. New Delhi, India: SAGE, 2016. Chapters ‘History of Media Research’ pp. 11 ff., ‘Audience and Media Measurement Research Methods in Use Today’ pp. 16 ff. Feel free to  more of course.	
+
+### 7	Research project
+	Designing an audience research project: Defining a research question.
+
+### 8	Research project
+	Preliminary studies, field notes, questionnair, interviews, ...
+
+### 9	Fan culture, sub culture
+
+- Duffett, Mark. Understanding Fandom: An Introduction to the Study of Media Fan Culture. First edition. London, England: Zed Books, 2013. Chapter 1 (Introduction)
+- Newitz, Annalee. ‘The Taylor Swift “psy Op” Conspiracy Theory Offers a Troubling Lesson’. NewScientist, 21 February 2024. https://www.newscientist.com/article/mg26134793-500-the-taylor-swift-psy-op-conspiracy-theory-offers-a-troubling-lesson/. """
+
+### 10	The political audience and media effects
+
+- Borah, Porismita. ‘Media Effects Theory’. In The International Encyclopedia of Political Communication, 1–12. John Wiley & Sons, Ltd, 2016. https://doi.org/10.1002/9781118541555.wbiepc156 
+- Ahmad, Amer Khaled, Abd Allah AL-Jalabneh, Alia Mahmoud, and Amjad Safori. ‘Covid-19 and the Resurgence of the Hypodermic Needle Theory Applicability in Times of Crises’. In International Conference on Business and Technology, 1423–36. Springer, 2022.
+- Biltereyst, Daniel, and Philippe Meers. ‘The Political Economy of Audiences’. In The Handbook of Political Economy of Communications, 415–35. John Wiley & Sons, Ltd, 2011. https://doi.org/10.1002/9781444395402.ch19 . Sections 'Introduction' and 'Audiences from a Political Economy Perspective'."
+
+### 11	Individual and the long tail: Mobile and social media, usage and gratification theory
+
+- McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 16
+- Eginli, Aysen Temel, and Neslihan Ozmelek Tas. ‘Interpersonal Communication in Social Networking Sites: An Investigation in the Framework of Uses and Gratification Theory’. Online Journal of Communication and Media Technologies 8, no. 2 (2018): 81–104.
+
+### 12	Identity, homogeneity
+
+- Ponzanesi, Sandra. ‘Digital Diasporas: Postcoloniality, Media and Affect’. Interventions 22, no. 8 (16 November 2020): 977–93. https://doi.org/10.1080/1369801X.2020.1718537 
+- Turner, Graeme. ‘Dealing with Diversity: Australian Television, Homogeneity and Indigeneity’. Media International Australia 174, no. 1 (1 February 2020): 20–28. https://doi.org/10.1177/1329878X19869481
+
+### 13 and 14	Finilizing the research project
+
 
 #### Assignments
 The assignments are listed in newclasses.nyu.edu  
@@ -60,5 +95,5 @@ The assignments are listed in newclasses.nyu.edu
 
 ***
   
-<sup>***[Media Audiences](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://twitter.com/jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
+<sup>***[Media Audiences](/README.md)*** by [Joerg Blumtritt](https://jbenno.net) [@jbenno](https://mastodon.social/@jbenno) - Other classes I teach: [github.com/jbenno](https://github.com/jbenno/teaching/blob/master/README.md)</sup>
 
