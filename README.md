@@ -45,71 +45,150 @@ Please see the page [Administrative Matters](/files/Administrative.md)
 ## Schedule
 *Work in progress - subject to change*
 
-### 1	Introduction
-- Sullivan, John L. Media Audiences Effects, Users, Institutions, and Power. 2nd ed. Thousand Oaks: SAGE Publications, 2019. Chapter “History and Concept of the Audience”, pages 2-27
-- Semujju, Brian. ‘Theorizing Dependency Relations in Small Media’. Communication Theory (1050-3293) 30, no. 4 (November 2020): 370–87. https://doi.org/10.1093/ct/qtz032"
+### 1 Introduction
 
-### 2	Media and audiences: Cultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle
+Related learing outcomes 
+###  Media and audiences: Introduction to the field of audience studies
+Read
+- Sullivan, John L. Media Audiences Effects, Users, Institutions, and Power. 2nd ed. Thousand Oaks: SAGE Publications, 2019. Chapter “History and Concept of the Audience”, pages 2-27
+- Semujju, Brian. ‘Theorizing Dependency Relations in Small Media’. Communication Theory (1050-3293) 30, no. 4 (November 2020): 370–87. https://doi.org/10.1093/ct/qtz032
+
+You may find the readings in this Google Folder: https://drive.google.com/drive/folders/1lWsfZjBFRLIIf3j7-JQLsmgwkl1SIiKC?usp=drive_link
+
+Write / Prepare
+- Two questions about the readings or the first class
+- What do you think about Semujju’s article after reading the chapter of Sullivan’s Media Audiences?
+- Do exercise 3 on page 29
+Related learing outcomes 1,2
+### 2 Media and audiences: Cultural industry, media as markets, audiences as commodities, segmentation and targeting, spectacle
+Choose one or two topics or people/ideas that you want to present in class. You can suggest to present on your own or in pairs.
+ 
+Read
 - Abercrombie, Nick, and Brian Longhurst. Audiences: A Sociological Theory of Performance and Imagination. Thousand Oaks, CA: SAGE, 1998. Chapter 1: ""Changing Audiences; Changing Paradigms of Research""
 - Benjamin, Walter. The Work of Art in the Age of Its Technological Reproducibility, and Other Writings on Media. Cambridge, Mass.: Belknap Press of Harvard University Press, 2008.
 
-### 3	Measurement and empirical audience research, advertising and PR
-
+Write
+- Look at the two texts in regard of the role that technology plays in perceiving and interacting with media. How does technology compare with other potential dimensions, like economy, society, power, literacy, etc.? You can write your thoughts down informally, like short notes (a few paragraphs is OK).
+- You can write questions and topics for discussion into this shared doc: https://docs.google.com/document/d/1e9P_ckmFFUriKdT9w0ngdZpKSGo5ChOwrD3ntffHjqY/edit?usp=sharing
+Related learing outcomes 1,2
+### 3 Measurement and empirical audience research, advertising and PR
+Read
 - McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 3: Concepts and Models for Mass Communication (p. 47 ff)
 - Investigate the following organizations through their websites:
- - https://mediaratingcouncil.org/
- - https://www.iab.com/
- - https://www.ofcom.org.uk/
- - https://www.barcindia.co.in/
- - https://www.searchenginejournal.com/what-is-programmatic-advertising/462655/ 
+https://mediaratingcouncil.org/  
+https://www.iab.com/  
+https://www.ofcom.org.uk/  
+https://www.barcindia.co.in/  
 
-- The Century of the Self. Documentary. British Broadcasting Corporation (BBC), RDF Media, 2002. https://www.youtube.com/playlist?list=PLktPdpPFKHfoXRfTPOwyR8SG8EHLWOSj6
+In particular, look at the research and studies published. What do you observe? What is similar, what looks different?
 
-### 4	Measurement and empirical audience research, advertising and PR
+- Look at https://www.searchenginejournal.com/what-is-programmatic-advertising/462655/ . Research about programmatic advertising. What do you think changes in regards to audiences compared to the way, the above insitutions meter media consumption?
 
-- Nieman Lab. ‘“Nobody Solves Media except Temporarily”: Four Indie Media Owners on Money, Sustainability, and “Making Cooler, Weirder Things”’. https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/
+- Start watching The Century of the Self. Documentary. British Broadcasting Corporation (BBC), RDF Media, 2002. https://www.youtube.com/playlist?list=PLktPdpPFKHfoXRfTPOwyR8SG8EHLWOSj6
+Related learing outcomes 3,4
+
+### 4 Measurement and empirical audience research, advertising and PR
+Read
+- Nieman Lab. ‘“Nobody Solves Media except Temporarily”: Four Indie Media Owners on Money, Sustainability, and “Making Cooler, Weirder Things”’. Accessed 15 February 2024. https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/
+
+Write
+- Make some notes on the changes are that discussed. What do you expect regarding the future of publishing in the next 2 to 5 years, or further out?
+
+Look at:
 - https://www.pewresearch.org and
 - https://www.insiderintelligence.com/articles
 
-### 5	Taste, distinction, popular culture and the subtle difference
+Read through some of their posts and studies. What do you notice, what do you think about the methods and the topics?
+Related learing outcomes 4
 
+### 5 Taste, distinction, popular culture and the subtle difference
+Read
+- Bourdieu, Pierre. Distinction: A Social Critique of the Judgement of Taste. Reprint 1984 ed. Cambridge, Mass: Harvard University Press, 2000. Chapter 1: """"The Aristocracy of Culture"""" here in the Google Drive: https://drive.google.com/drive/folders/1lWsfZjBFRLIIf3j7-JQLsmgwkl1SIiKC 
+
+Write
+- How does Bourdieu's Distinction connect with the concept of target groups?
+- What potential ethical, social, and political issues are entailed?
+Related learing outcomes 1,2,5"
+
+Read
 - Mears, Ashley. ‘Bringing Bourdieu to a Content Farm: Social Media Production Fields and the Cultural Economy of Attention’. Social Media + Society 9, no. 3 (1 July 2023): 20563051231193027. https://doi.org/10.1177/20563051231193027
-- Airoldi, Massimo. ‘Digital Traces of Taste: Methodological Pathways for Consumer Research’. Consumption Markets & Culture 24, no. 1 (2 January 2021): 97–117. https://doi.org/10.1080/10253866.2019.1690998"
+- Airoldi, Massimo. ‘Digital Traces of Taste: Methodological Pathways for Consumer Research’. Consumption Markets & Culture 24, no. 1 (2 January 2021): 97–117. https://doi.org/10.1080/10253866.2019.1690998
 
-### 6	Taste, distinction, popular culture and the subtle difference
+Write
+- What do you personally think about the role of taste and media? How does taste relate to style and identity, in particular in social media like Instagram or Tiktok?
+Related learing outcomes 1,2,5
 
+### 6 Engagement
+Read
+- Wang, Mengdi, and Dong Li. ‘What Motivates Audience Comments on Live Streaming Platforms?’ PLOS ONE 15, no. 4 (9 April 2020): e0231255. https://doi.org/10.1371/journal.pone.0231255
+- Morning Consult. ‘The Influencer Report. Engaging Gen Z and Millennials’. Morning Consult, 2019. (in the Google Drive)
+
+Research about the role of algorithms in making social media platforms "sticky".
+
+Write
+- Discuss the role of comments, engagement, and stickyness on social media platforms. What role does the economy of these platforms play in shaping engagement?
+Related learing outcomes 2,5"
+
+### 7 Practice of Audience Research
+Read
 - McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 15 and 17
-- Mytton, Graham. Media Audience Research: A Guide for Professionals. 3rd edition. New Delhi, India: SAGE, 2016. Chapters ‘History of Media Research’ pp. 11 ff., ‘Audience and Media Measurement Research Methods in Use Today’ pp. 16 ff. Feel free to  more of course.	
+- Mytton, Graham. Media Audience Research: A Guide for Professionals. 3rd edition. New Delhi, India: SAGE, 2016. Chapters ‘History of Media Research’ pp. 11 ff., ‘Audience and Media Measurement Research Methods in Use Today’ pp. 16 ff. Feel free to read more of course.
 
-### 7	Research project
-	Designing an audience research project: Defining a research question.
+Think of what research project we want to pursue. You can put your ideas into our discussion doc: https://docs.google.com/document/d/1e9P_ckmFFUriKdT9w0ngdZpKSGo5ChOwrD3ntffHjqY/edit?usp=sharing
+Related learing outcomes 4,5 
 
-### 8	Research project
-	Preliminary studies, field notes, questionnair, interviews, ...
-
-### 9	Fan culture, sub culture
-
+### 8 Fan culture, sub culture
+Read
 - Duffett, Mark. Understanding Fandom: An Introduction to the Study of Media Fan Culture. First edition. London, England: Zed Books, 2013. Chapter 1 (Introduction)
-- Newitz, Annalee. ‘The Taylor Swift “psy Op” Conspiracy Theory Offers a Troubling Lesson’. NewScientist, 21 February 2024. https://www.newscientist.com/article/mg26134793-500-the-taylor-swift-psy-op-conspiracy-theory-offers-a-troubling-lesson/. """
+- Newitz, Annalee. ‘The Taylor Swift “psy Op” Conspiracy Theory Offers a Troubling Lesson’. NewScientist, 21 February 2024. https://www.newscientist.com/article/mg26134793-500-the-taylor-swift-psy-op-conspiracy-theory-offers-a-troubling-lesson/ . 
 
-### 10	The political audience and media effects
+Write
+- Sumarize what 'fan culture' means in audience studies. How does identifying as ""fan(atic)"" tie into shaping people's identity?
+Related learing outcomes 2,5
 
-- Borah, Porismita. ‘Media Effects Theory’. In The International Encyclopedia of Political Communication, 1–12. John Wiley & Sons, Ltd, 2016. https://doi.org/10.1002/9781118541555.wbiepc156 
+### 9 The political audience and media effects
+Read
+- Borah, Porismita. ‘Media Effects Theory’. In The International Encyclopedia of Political Communication, 1–12. John Wiley & Sons, Ltd, 2016. https://doi.org/10.1002/9781118541555.wbiepc156  
 - Ahmad, Amer Khaled, Abd Allah AL-Jalabneh, Alia Mahmoud, and Amjad Safori. ‘Covid-19 and the Resurgence of the Hypodermic Needle Theory Applicability in Times of Crises’. In International Conference on Business and Technology, 1423–36. Springer, 2022.
-- Biltereyst, Daniel, and Philippe Meers. ‘The Political Economy of Audiences’. In The Handbook of Political Economy of Communications, 415–35. John Wiley & Sons, Ltd, 2011. https://doi.org/10.1002/9781444395402.ch19 . Sections 'Introduction' and 'Audiences from a Political Economy Perspective'."
+- Biltereyst, Daniel, and Philippe Meers. ‘The Political Economy of Audiences’. In The Handbook of Political Economy of Communications, 415–35. John Wiley & Sons, Ltd, 2011. https://doi.org/10.1002/9781444395402.ch19 . Sections 'Introduction' and 'Audiences from a Political Economy Perspective'.
 
-### 11	Individual and the long tail: Mobile and social media, usage and gratification theory
+Write
+- Discuss what role the political audience plays in political communication, in particular in campaigning.
+Related learing outcomes 4,5
 
+### 10 Individual and the long tail: Mobile and social media, usage and gratification theory
+Read
 - McQuail, Denis. McQuail’s Mass Communication Theory. London: SAGE Publications Ltd, 2010. Chapter 16
 - Eginli, Aysen Temel, and Neslihan Ozmelek Tas. ‘Interpersonal Communication in Social Networking Sites: An Investigation in the Framework of Uses and Gratification Theory’. Online Journal of Communication and Media Technologies 8, no. 2 (2018): 81–104.
 
-### 12	Identity, homogeneity
+Write
+- What needs lead to choose specific platforms like Instagram or Tiktok? Can 'Uses and Gratification' help explain the choice?
+Related learing outcomes 2,4
 
+### 11 Identity, homogeneity
+Read
 - Ponzanesi, Sandra. ‘Digital Diasporas: Postcoloniality, Media and Affect’. Interventions 22, no. 8 (16 November 2020): 977–93. https://doi.org/10.1080/1369801X.2020.1718537 
 - Turner, Graeme. ‘Dealing with Diversity: Australian Television, Homogeneity and Indigeneity’. Media International Australia 174, no. 1 (1 February 2020): 20–28. https://doi.org/10.1177/1329878X19869481
 
-### 13 and 14	Finilizing the research project
+Project
+- We start to work on our real, empirical audience project that we have been discussing over the last sessions.
+Related learing outcomes 2,3,5
 
+### 12 Tradition, invention, translation
+Read
+- Benjamin, Walter. ‘The Translator’s Task, Walter Benjamin (Translation)’. Translated by Steven Rendall. TTR : Traduction, Terminologie, Rédaction 10, no. 2 (1997): 151–65. https://doi.org/10.7202/037302ar
+Related learing outcomes 2
+
+### 13 Revisiting all the models
+Read
+- Look at the book 'Wood, Helen. Audience. First edition. Key Ideas in Media & Cultural Studies. London: Routledge, Taylor & Francis Group, 2024. https://doi.org/10.4324/9781003414575 '
+- Read the introduction and choose two other chapters.
+- Reflect of what has changed compared to McQuail
+Related learing outcomes 2,5
+
+### 14 Our project
+- Finalizing our emiprical audience study project
+Related learing outcomes 3,5
 
 ***
 
