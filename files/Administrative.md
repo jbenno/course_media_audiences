@@ -1,6 +1,6 @@
 # Administrative Matters
 
-## 1. Communication
+## Communication
 - Please use email for communicating with me.
 - **Please always put the course title into the subject line!**
 
