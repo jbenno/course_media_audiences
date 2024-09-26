@@ -39,15 +39,25 @@ You remain responsible for all aspects of your work. In any use of AI-generated 
 - 25% Criticism (assessing the form, intention, preliminary conditions of the assigned material; questioning the arguments)
 #### Scale
 A  = 100 to 93
+
 A- = <93 to 90
+
 B+ = <90 to 87
+
 B  = <87 to 83
+
 B- = <83 to 80
+
 C+ = <80 to 77
+
 C = <77 to 73
+
 C- = <73 to 70
+
 D+ = <70 to 67
+
 D = <67 to 60
+
 F = <60 to 0
 
 ## Accessibility Statement
