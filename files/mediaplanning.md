@@ -52,6 +52,35 @@ Used to measure sentiment and loyalty rather than just raw volume.
 
 > **Note:** Modern digital measurement also includes **Viewability**, which ensures at least 50% of the ad was on screen for at least one second.
 
-```
+This sample media plan illustrates how a brand might allocate a **$100,000 budget** across three different channels. Notice how the **CPM** and **Frequency** fluctuate based on the platform's nature, ultimately affecting the **GRP** and **ROAS**.
 
-Would you like me to add a section on **Attribution Modeling** (how we credit these indices to a final sale)?
+
+# Sample Media Plan: Q1 Product Launch
+**Campaign Goal:** Drive brand awareness and online conversions.  
+**Total Budget:** $100,000 | **Target Audience:** Adults 18–34
+
+| Channel | Budget | Impressions | CPM | Reach (Unique) | Frequency | GRPs* | Conversions | ROAS |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Connected TV (CTV)** | $50,000 | 2,000,000 | $25.00 | 500,000 | 4.0 | 25.0 | 400 | 1.2x |
+| **Social Media (Video)** | $30,000 | 6,000,000 | $5.00 | 1,500,000 | 4.0 | 75.0 | 3,000 | 3.5x |
+| **Search (SEM)** | $20,000 | 800,000 | $25.00 | 400,000 | 2.0 | 20.0 | 1,200 | 5.0x |
+| **TOTALS** | **$100,000** | **8,800,000** | **$11.36** | **2,400,000** | **3.6** | **120.0** | **4,600** | **3.2x** |
+
+---
+
+### Key Observations & Index Interactions
+
+* **Awareness vs. Performance:** * **CTV** has a high **CPM ($25)** and lower **ROAS**, but it drives the high-quality **Reach** and **Frequency** needed to prime the audience for other channels.
+    * **Search** has a lower reach but the highest **ROAS (5.0x)**, as it captures "bottom-funnel" intent.
+* **The GRP Calculation:** * The total campaign delivered **120 GRPs**. This is calculated by taking our total Reach (assuming a target universe of 2,000,000 people) which is 100% of the target, and multiplying by the weighted average frequency.
+* **Efficiency Trade-offs:** * While **Social Media** provided the most "weight" (75 GRPs) due to a low **CPM**, the **Conversion Rate** is often lower than Search because the audience isn't actively looking for the product.
+
+> [!TIP]
+> **Frequency Capping:** In a real-world scenario, we would set a frequency cap of ~5 across all channels to prevent "ad fatigue" and ensure the budget is used to find new unique users rather than over-saturating the same ones.
+
+---
+
+### Terminology for this Table
+* **CPM:** Cost per 1,000 impressions.
+* **ROAS:** Revenue / Ad Spend.
+* **GRPs:** Gross Rating Points (based on a hypothetical target universe of 2 million people).
