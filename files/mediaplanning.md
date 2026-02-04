@@ -1,62 +1,60 @@
-Media measurement translates the abstract impact of advertising into concrete data. While modern media has introduced hundreds of niche data points, the industry relies on a core set of indices to judge reach, efficiency, and effectiveness.
+Here is the summary formatted specifically for **GitHub Markdown**. I’ve optimized it to use GitHub’s specific syntax (like GFM tables and task lists) so it renders cleanly in a `.md` file or a repository README.
 
-### 1. Delivery & Visibility Indices
+```markdown
+# Media Measurement Indices: A Quick Reference
 
+Media measurement translates the abstract impact of advertising into concrete data. This guide covers the core indices used to judge reach, efficiency, and effectiveness.
+
+---
+
+## 1. Delivery & Visibility Indices
 These metrics track whether your message actually appeared in front of people and how broadly it spread.
 
-| Index | What it measures | How it is measured / Calculated |
-| --- | --- | --- |
-| **Reach** | The number of **unique** individuals exposed to an ad at least once. | Measured via tracking pixels (digital) or panel-based surveys and set-top boxes (TV). |
-| **Impressions** | The total number of times an ad was displayed, including repeat views. | Counted every time a digital file is "called" from a server or an ad is served. |
-| **Frequency** | The average number of times each reached person saw the ad. |  |
-| **Share of Voice (SOV)** | Your brand's "weight" or presence compared to the total category. |  |
+| Index | What it measures | Calculation / Methodology |
+| :--- | :--- | :--- |
+| **Reach** | Unique individuals exposed to an ad at least once. | Tracking pixels (digital) or panel-based surveys (TV). |
+| **Impressions** | Total number of times an ad was displayed. | Counted every time an ad file is served. |
+| **Frequency** | Average number of times each person saw the ad. | `Total Impressions / Unique Reach` |
+| **Share of Voice (SOV)** | Brand presence compared to the total category. | `(Brand Spend / Category Spend) * 100` |
 
 ---
 
-### 2. Efficiency & Weight Indices
+## 2. Efficiency & Weight Indices
+These indices help planners understand the "heaviness" of a campaign and its cost-effectiveness.
 
-These indices help planners understand the "heaviness" of a campaign and the cost-effectiveness of the media buy.
+### Gross Rating Points (GRP)
+A standard measure of total "media weight."
+- **Formula:** $Reach (\% \text{ of Population}) \times Average Frequency$
+- *Example:* Reaching 50% of a city with a frequency of 3 = 150 GRPs.
 
-* **Gross Rating Points (GRP):** A standard measure of total "media weight" used in TV and cross-channel planning.
-* **Calculation:** 
-* *Example:* If you reach 50% of a city with a frequency of 3, you have 150 GRPs.
+### Cost Per Thousand (CPM)
+The baseline for comparing the price of different media channels.
+- **Formula:** $(Total Cost / Total Impressions) \times 1,000$
 
-
-* **Cost Per Thousand (CPM):** The cost to deliver 1,000 impressions. This is the baseline for comparing the price of different media channels.
-* **Calculation:** 
-
-
-* **Target Rating Points (TRP):** Similar to GRP, but specifically filtered for a target demographic (e.g., Women aged 25–40) rather than the total population.
-
----
-
-### 3. Engagement & Performance Indices
-
-These metrics evaluate how the audience interacted with the media once they saw it.
-
-* **Click-Through Rate (CTR):** Measures the relevance of an ad by how often people clicked it.
-* **Calculation:** 
-
-
-* **Conversion Rate (CVR):** The percentage of users who took a desired action (e.g., a purchase) after clicking.
-* **Calculation:** 
-
-
-* **Return on Ad Spend (ROAS):** The direct revenue generated for every dollar spent.
-* **Calculation:** 
-
-
+### Target Rating Points (TRP)
+Similar to GRP, but filtered for a specific target demographic (e.g., Men 18-35) rather than the total population.
 
 ---
 
-### 4. Qualitative Indices (Brand Health)
+## 3. Engagement & Performance Indices
+These metrics evaluate how the audience interacted with the media.
 
-Since numbers alone don't show "feeling," these indices use sentiment analysis and surveys.
+* **Click-Through Rate (CTR):** $\frac{Total Clicks}{Total Impressions} \times 100$
+* **Conversion Rate (CVR):** $\frac{Total Conversions}{Total Clicks} \times 100$
+* **Return on Ad Spend (ROAS):** $\frac{Revenue from Ads}{Cost of Ads}$
 
-* **Net Promoter Score (NPS):** Measures customer loyalty. Customers rate the brand (0–10).
-* **Calculation:** 
+---
 
+## 4. Qualitative Indices (Brand Health)
+Used to measure sentiment and loyalty rather than just raw volume.
 
-* **Sentiment Score:** Uses AI/Natural Language Processing to categorize media mentions as positive, negative, or neutral.
+- [x] **Net Promoter Score (NPS):** `% Promoters - % Detractors` (Measured via 0-10 scale surveys).
+- [x] **Sentiment Score:** Uses AI/NLP to categorize mentions as Positive, Negative, or Neutral.
 
-**Would you like me to create a sample media plan table to show how these indices interact in a real-world campaign?**
+---
+
+> **Note:** Modern digital measurement also includes **Viewability**, which ensures at least 50% of the ad was on screen for at least one second.
+
+```
+
+Would you like me to add a section on **Attribution Modeling** (how we credit these indices to a final sale)?
