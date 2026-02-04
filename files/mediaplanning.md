@@ -1,6 +1,3 @@
-Here is the summary formatted specifically for **GitHub Markdown**. I’ve optimized it to use GitHub’s specific syntax (like GFM tables and task lists) so it renders cleanly in a `.md` file or a repository README.
-
-```markdown
 # Media Measurement Indices: A Quick Reference
 
 Media measurement translates the abstract impact of advertising into concrete data. This guide covers the core indices used to judge reach, efficiency, and effectiveness.
