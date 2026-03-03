@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Some of Your Info</title>
+</head>
+<body>
+    <div>
+      <span>IP Address: </span>
+      <span id="ip">Loading…</span>
+    </div>
+    <div>
+      <span >User Agent: </span>
+      <span id="ua"></span>
+    </div>
+    <div>
+      <span >Screen Size: </span>
+      <span id="screen"></span>
+    </div>
+    <div>
+      <span >Referring Site: </span>
+      <span id="referrer"></span>
+    </div>
+  <script>
+    document.getElementById("ua").textContent = navigator.userAgent;
+    document.getElementById("screen").textContent = `${screen.width} × ${screen.height} (window: ${window.innerWidth} × ${window.innerHeight})`;
+    document.getElementById("referrer").textContent = document.referrer || "None (direct visit)";
+  
+
+    fetch("https://api.ipify.org?format=json")
+      .then(r => r.json())
+      .then(d => document.getElementById("ip").textContent = d.ip)
+      .catch(() => document.getElementById("ip").textContent = "Unavailable");
+  </script>
+</body>
+</html>
